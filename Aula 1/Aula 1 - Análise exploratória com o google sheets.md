@@ -82,7 +82,7 @@ Um **dataset** é um *conjunto de dados* geralmente formado por colunas e linhas
 Essa tabela possui um cabeçalho com os nomes das colunas bem definidos.
 
 Este é um exemplo de um dataset:
-![[Pasted image 20240328201202.png]]
+! [Imagem de um Dataset](../imagens/Pastedimage20240328201202.png)
 
 #### Dicionário de dados
 
