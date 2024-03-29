@@ -101,10 +101,12 @@ Porém mesmo que os dicionários sejam de grande ajuda para a análise de dados,
 
 As IA's são sistemas capazes de realizar tarefas, que até o momento só poderiam ser realizadas por humanos. Juntamente com as IA's existem o aprendizado de máquina (machine learning) que são algoritmos que aprendem com dados que são fornecidos para eles.
 
->[!Important]- Redes Neurais
+> Redes Neurais
+>
 >Conjunto de algoritmos que após serem treinados podem responder com base naquele treinamento. A questão em si é passada por várias camadas, que ao final obtém uma resposta com base no que foi aprendido
 
->[!info]- O jogo da imitação
+> O jogo da imitação
+> 
 >Filme que conta como Alan Turing quebrou o enigma, um código que os alemães usam para enviar mensagens aos submarinos, durante a 2ª guerra mundial
 
 ### O que é IA generativa?
@@ -120,7 +122,8 @@ A tecnologia que tem essa capacidade de aprendizado e geração de novos dados s
 
 Tudo isso funciona como um *ciclo*, com a rede geradora melhorando os dados com base na nota da rede discriminadora, isso acontece até que os dados alcancem uma boa qualidade.
 
->[!Importante]- O que Deep Learning?
+>O que Deep Learning?
+>
 >Várias camadas de IA's que a cada camada observam alguns pontos dos dados, e essas observaçoes passam para a próxima cada para outras IA's também poderem fazer a sua observação. 
 >O deep learning está muito ligado com as redes neurais
 
