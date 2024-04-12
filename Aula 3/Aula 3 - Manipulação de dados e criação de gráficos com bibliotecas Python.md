@@ -55,7 +55,7 @@ Tudo isso é muito importante pois dessa forma todos os setores do projeto podem
 | Grid        | Grade/Malha  | É a estrutura de fundo de um gráfico.  <br>Linhas horizontais e verticais espaçadas que servem de referência para as unidades dos eixos.                                                                |
 | Legend      | Legenda      | Caixa de texto descritivo, contendo informações sobre os elementos do gráfico.  <br>Geralmente traz informação sobre o que significa determinada cor ou traçado e/ou quais as variáveis sendo plotadas. |
 
-![[Pastedimage20240330202644.png]]
+![imagem](../imagens/Pastedimage20240330202644.png)
 
 ### Principais bibliotecas
 
@@ -89,7 +89,7 @@ A biblioteca é geralmente utilizada em conjunto com outras bibliotecas de anál
 
 A Seaborn também possui uma [galeria de imagens](https://seaborn.pydata.org/examples/index.html) dos gráficos feitos utilizando a biblioteca.
 
-![[Pastedimage20240330205136.png]]
+![imagem](../imagens/Pastedimage20240330205136.png)
 E uma das características mais importantes da Seaborn é a **facilidade em tratar informações estatísticas** do conjunto de dados durante o processo de _plot_ dos gráficos.
 
 #### Plotly
@@ -102,7 +102,7 @@ A Plotly funciona muito bem com várias plataformas usadas em Ciência de Dados 
 
 A galeria de gráficos da Plotly está disponível na página [Plotly Open Source Graphing Library for Python](https://plotly.com/python/) e conta com diversos exemplos de gráficos básicos, estatísticos, mapas e vários exemplos aplicados.
 
-![[Pastedimage20240330205425.png]]
+![imagem](../imagens/Pastedimage20240330205425.png)
 
 [Conheça as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python)
 

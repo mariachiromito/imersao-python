@@ -219,11 +219,13 @@ Mas ambos os softwares podem ser usados juntos, já que o pandas possui uma comp
 O pandas é bastante utilizado com notebooks interativos python (.ipynb), como o Jupyter notebook, no qual o Google Colab é baseado.
 Com esses notebooks se pode ter uma melhor visualizaçõa do código e suas saídas, possuindo também modos interativos.
 Ex:
-![[Pastedimage20240330113653.png]]
+
+![imagem](../imagens/Pastedimage20240330113653.png)
 
 Mas também é possível se trabalhar com arquivos python comuns (.py), a grande diferença é que os resultados de saída serão exibidos no terminal.
 Ex:
-![[Pastedimage20240330113951.png]]
+
+![imagem](../imagens/Pastedimage20240330113951.png)
 
 ### Instalação do pandas
 
