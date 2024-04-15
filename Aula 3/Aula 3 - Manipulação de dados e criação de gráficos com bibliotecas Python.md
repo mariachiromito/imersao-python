@@ -71,11 +71,11 @@ A documentação do Matplotlib disponibiliza dois links interessantes: o **Plot
 
 - [Plot types](https://matplotlib.org/stable/plot_types/): página dedicada a mostrar os tipos de visualizações possíveis com Matplotlib. Alguns deles são: _plot_, _scatter_, _bar_, _stem_, _step_ e _fill_between_.
 
-![[Pastedimage20240330203527.png]]
+![imagem](../imagens/Pastedimage20240330203527.png)
 
 - [Examples](https://matplotlib.org/stable/gallery/): página com exemplos diversos e junção de funções de criação e customização diferentes do matplotlib. Alguns dos exemplos mostrados são: _Bar color demo_, _Bar Label Demo_, _Stacked bar chart_, _Grouped bar chart with labels_, _Horizontal bar chart_ e _Broken Barh_.
 
-![[Pastedimage20240330203813.png]]
+![imagem](../imagens/Pastedimage20240330203813.png)
 
 Além da grande variedade de gráficos 2D estáticos, a Matplotlib também permite a criação de animações no formato GIF, gráficos em 3D e a junção de vários gráficos em um só (subplots). Tudo isso com o uso de módulos específicos dentro da biblioteca.A documentação do Matplotlib disponibiliza dois links interessantes: o **Plot Types** e o **Examples**.
 
