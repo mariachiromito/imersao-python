@@ -1,8 +1,5 @@
 # Objetivos da aula
 
-Nesta aula, vamos começar a nossa análise da base da bolsa de valores explorando o Google Sheets, com VLOOKUP, SUMIF e muitas outras fórmulas, além de usarmos o Chat GPT durante a aula.
-
-**Nesta aula, você vai:**
 - Analisar as bases de variações na B3;
 - Fazer análises exploratórias pelo Google Sheets com fórmulas
 - Usar o Chat GPT;
@@ -55,16 +52,10 @@ Nesta aula, vamos começar a nossa análise da base da bolsa de valores exploran
 - Pedir para o GPT gerar a fórmula IF para as faixas de idade.
 
 [Planilha com o desafio concluído](https://docs.google.com/spreadsheets/d/1BVAoLD2UMz0aGgmZa_YCQvvxvJMHHZdi/edit?usp=drive_link)
-# Conteúdo Extra (I.A.)
-
-Breve introdução ao ChatGPT e Gemini (google)
 
 ---
 # Links para saber mais
 
-Esta é uma seção que faz um resumo dos artigos e outros links fornecidos pela imersão.
-
----
 ## Análise Exploratória: Primeiros passos - Artigo ALURA
 
 ### O que é?
@@ -156,11 +147,7 @@ Porém as IA's generativas tambpem possuem algumas desvantagens, dentre elas as 
 [Link para o artigo: O que é IA generativa?](https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney?_gl=1*pd20gn*_ga*MTE5MTY2MTIxOC4xNzA4ODAxNDkz*_ga_1EPWSW3PCS*MTcxMTY2ODA5My4yMi4xLjE3MTE2NjgxMjguMC4wLjA.*_fplc*bVhCRlZtWGFzdDQ0bmY5R1ZtcWprVmFveEkwM25LTHdURHN0RGpJQkZIZnozbU14M3g4b1kwYW9jJTJCS0huRlptN0JzUlMzNHFmSjd2YSUyRnZxYXhJaFVCTTNNSCUyRnpFbUkzcHdFQjJYYjNiOFNkTVFqUHJRUFo4b1dxTktvWnh3JTNEJTNE)
 
 ---
-## Podcast Hipsters - Tendencia e inovações no mercado finaceiro
 
-[Podcast Hipsters - Tendencia e inovações no mercado financeiro](https://www.alura.com.br/podcast/hipsterstech-tendencias-e-inovacoes-no-mercado-financeiro-deep-dive-bradesco-1-hipsters-ponto-tech-361-a2326?_gl=1*xgnd2d*_ga*MTE5MTY2MTIxOC4xNzA4ODAxNDkz*_ga_1EPWSW3PCS*MTcxMTQ5NjU2Ni4xNC4xLjE3MTE0OTY1NjguMC4wLjA.*_fplc*WDQ0SXowOXRCRVFwbU83JTJCdFhtSDZHeW80bFh1cEdtR0pXVnElMkJ3RyUyRkd3UlZrNCUyQnRmWktPTFclMkJrYkNDRzR0WDRJa2k1bmVHOXB1Qzg4SEVkR28lMkYlMkZEb0Q5WHRhV3NUdTZVWU9oeUxGOGR6OVhuVHdyNEg0YmlkMHBVRUZkZGclM0QlM0Q)
-
----
 ## ChatGPT: o que é, como usar e dicas de comandos para o dia a dia - Artigo ALURA
 
 ### O que é?
