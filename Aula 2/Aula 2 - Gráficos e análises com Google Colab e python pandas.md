@@ -1,9 +1,5 @@
 # Objetivos da aula
 
-Nesta aula, vamos criar gráficos e tabelas no Google Sheets e, começar a manipulação de dados com Python Pandas pelo Google Colab!
-
-## Nesta aula, você vai:
-
 - Gerar de tabelas e cálculos de estatísticas;
 - Criar gráficos no Google Sheets;
 - Conhecer o Google Colab;
@@ -137,13 +133,6 @@ sheetgpt
 ---
 # Links para saber mais
 
-[IA dentro de empresas - Podcast Hispsters](https://www.alura.com.br/podcast/hipsterstech-openai-sora-google-gemini-pro-1-5-ia-no-picpay-hipsters-fora-de-controle-45-a9238?_gl=1*1jas09m*_ga*MTE5MTY2MTIxOC4xNzA4ODAxNDkz*_ga_1EPWSW3PCS*MTcxMTczNDgxNC4yOC4xLjE3MTE3MzU2NDAuMC4wLjA.*_fplc*OVZRZFJqVVdhbEdKa0c2dGFrQVRSRlNvN3hlclF6d0M0MkxHTTF6RVJBWDFtZk1LZkpvY094JTJGN3ZURU1jOGpZcU1DcCUyRmdMa1A2NDlxendUR0k5YVJ3ajBnOWFUWmxtN2VLUiUyQmZJJTJCS3ZQSGJnazFDaGZJZlVPR3A1S3RBOWclM0QlM0Q.)
-
----
-
-[Ecossistema python - Podcast Hispsters](https://www.alura.com.br/podcast/hipsterstech-ecossistema-python-hipsters-ponto-tech-387-a9175?_gl=1*1x0iigt*_ga*MTE5MTY2MTIxOC4xNzA4ODAxNDkz*_ga_1EPWSW3PCS*MTcxMTczNDgxNC4yOC4xLjE3MTE3MzQ4MTUuMC4wLjA.*_fplc*OVZRZFJqVVdhbEdKa0c2dGFrQVRSRlNvN3hlclF6d0M0MkxHTTF6RVJBWDFtZk1LZkpvY094JTJGN3ZURU1jOGpZcU1DcCUyRmdMa1A2NDlxendUR0k5YVJ3ajBnOWFUWmxtN2VLUiUyQmZJJTJCS3ZQSGJnazFDaGZJZlVPR3A1S3RBOWclM0QlM0Q.)
-
----
 ## Pandas Python: O que é, para que serve
 
 ### O que é pandas?
