@@ -25,8 +25,4 @@ Nesta segunda aula foram feitas análises da planilha utilizada na primeira aula
 
 [Ver arquivos da aula 4](https://github.com/mariachiromito/imersao-python/tree/main/Aula%204)
 
-## Aula 5
-**Assunto:** Previsão de séries temporais de ações e carreiras no mercado de dados
-
-[Ver arquivos da aula 5](https://github.com/mariachiromito/imersao-python/tree/main/Aula%205)
 
