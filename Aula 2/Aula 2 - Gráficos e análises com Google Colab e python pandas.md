@@ -5,8 +5,6 @@
 - Conhecer o Google Colab;
 - Iniciar a manipulação de dados com Python Pandas.
 
-Fique até o final da aula e descubra insights e orientações exclusivas para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
-
 [Introdução ao Google colab](https://colab.research.google.com/drive/1342Sr4_xIiwTjlbllAycEQ1OClNQkIiM?authuser=1#scrollTo=-Rh3-Vt9Nev9)
 
 ---
