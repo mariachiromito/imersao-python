@@ -1,16 +1,10 @@
 
 # Objetivos da aula
 
-Nesta aula, vamos continuar a manipulação de dados com Pandas no Colab por meio da transformação da planilha de ações. Além disso, vamos começar a construir gráficos com a biblioteca Plotly.
-
-## Nesta aula, você vai:
-
 - Manipular dados com Pandas;
 - Transformar a planilha de ações com funções do Pandas;
 - Construir gráficos com a biblioteca Plotly Express;
 - Usar o Chat GPT durante o código.
-
-Fique até o final da aula e descubra insights e orientações exclusivas para impulsionar o seu aprendizado de forma eficaz com o uso do ChatGPT.
 
 ---
 # Aula 
@@ -105,15 +99,3 @@ A galeria de gráficos da Plotly está disponível na página [Plotly Open Sour
 ![imagem](../imagens/Pastedimage20240330205425.png)
 
 [Conheça as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python)
-
----
-## O que é um DataFrame
-
-[[Aula 2 - Gráficos e análises com Google Colab e python pandas#DataFrames]]
-
- [O que é DataFrame](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar#:~:text=DataFrame,Series%20sob%20um%20mesmo%20index.)
-
----
-## ChatGPT e a análise de dados avançada
-
- [ChatGPT e a análise de dados avançada](https://www.youtube.com/watch?v=u-JoDQ58Dv0)
